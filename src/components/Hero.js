@@ -6,7 +6,7 @@ export default function Hero() {
         <section className="hero-section">
             <img
                 src="/images/photo-grid.png"
-                alt="image"
+                alt="section"
                 className= "photo-grid" />
             <h1 className="hero-header"> Online Experiences</h1>
             <p className="hero-text">Join unique interactive activities led by 
